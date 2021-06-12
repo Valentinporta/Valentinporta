@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">
+  Hi! I'm Valentin, Fullstack Developer from Argentina!
+</h2>
+
+## ✔️ Tech Stack
+
+<p>
+  <code><img width="10%" height:"50px" src="" /></code>
+</p>
