@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Valentin!
 #### I am a Fullstack Web Developer
 ![I am a Fullstack Web Developer](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)
